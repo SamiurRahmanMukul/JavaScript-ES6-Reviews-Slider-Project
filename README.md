@@ -1,13 +1,13 @@
-# es6-reviews-slider-project
+# JavaScript ES6 Reviews Slider Project
 
 ### 🔰 Live Preview Projects:
 
-- JavaScript ES6 Slider Project - [Click To Live Preview][es6slider]
+- JavaScript ES6 Slider Project - [Click To Live Preview][es6-slider]
 
 <br />
 
-                    </> HAPPY Coding 🤣 </>
+                    </> HAPPY CODING 🤣 </>
 
 <!-- project link -->
 
-[es6slider]: https://samiurrahmanmukul.github.io/es6-reviews-slider-project/
+[es6-slider]: https://samiurrahmanmukul.github.io/JavaScript-ES6-Reviews-Slider-Project
